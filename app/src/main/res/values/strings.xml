@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IPL</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="movie_title">
+        <item>csk</item>
+    <item>RR</item>
+    <item>MI</item>
+    <item>PUne</item>
+    <item>ohf</item>
+    </string-array>
+
+
+</resources>
